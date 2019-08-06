@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Api</string>
+    <string name="google_map_api_key">AIzaSyDPQBFRC7zCyalCumbkyMNgRb_ffiAlxwo</string>
+    <string name="query_hint">Search location</string>
+    <string name="query_no_result">No result found</string>
+</resources>
